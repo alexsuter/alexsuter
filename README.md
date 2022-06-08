@@ -5,3 +5,5 @@ I'm Alex and software engineer based in Zug 🇨🇭 at [Axon Ivy](https://githu
 Day by day I work with different technologies and see myself as a polyglot developer but with the main focus on Java ☕. I am very interested in software architecture, DevOps, build automation and container environments 🐋 (some are calling me whale whisperer).
 
 When I find some time, I write [blog posts](https://community.axonivy.com/t/blog) 📰 about our platform.
+
+![Alex Suters's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsuter&show_icons=true&count_private=true&theme=dracula)
